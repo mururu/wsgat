@@ -15,8 +15,8 @@ connected (press CTRL+C to quit)
 ```
 
 ```
-$ wsgat -l 80
-listening on port 3000 (press CTRL+C to quit)
+$ wsgat listen 80
+listening on port 80 (press CTRL+C to quit)
   client connected
   < hi
   < yo
